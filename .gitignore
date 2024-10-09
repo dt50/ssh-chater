@@ -1,0 +1,8 @@
+/.venv
+/src/ui_test.py
+/src/test.db
+/src/main.py
+/src/ui/user.py
+/src/Makefile
+/poetry.lock
+/.idea

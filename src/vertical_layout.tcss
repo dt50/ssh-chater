@@ -1,0 +1,38 @@
+.rooms_column {
+    width: 0.5fr;
+    border: solid darkred;
+}
+
+.list_element {
+    width: 100%;
+    height: auto;
+}
+
+ListItem {
+    height: auto;
+}
+
+Label {
+    padding: 1 2;
+}
+
+.chat_column {
+    width: 1fr;
+    height: 100%;
+}
+
+.chat {
+    border: solid darkred;
+    height: 1fr;
+}
+
+.input_container {
+    height: 0.15fr;
+    border: green;
+}
+
+.input {
+    align: center middle;
+    height: 100%;
+    width: 100%;
+}

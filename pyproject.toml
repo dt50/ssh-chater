@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sshchater"
+version = "0.1.0"
+description = ""
+authors = ["Poletaev Aleksandr <alexfretka@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sqlalchemy = "^2.0.35"
+colorama = "^0.4.6"
+termcolor = "^2.4.0"
+textual = "^0.82.0"
+textual-dev = "^1.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
